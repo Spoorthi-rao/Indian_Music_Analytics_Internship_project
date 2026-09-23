@@ -133,5 +133,4 @@ across industries.
 
 ## Author
 
-Spoorthi H Rao
-Data Analytics & AI Internship
+Spoorthi H Rao - Data Analytics & AI Internship
